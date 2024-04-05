@@ -5,6 +5,10 @@
     padding: 0px;
 }
 
+.portada{
+    width: 99vw;
+}
+
 body {
     text-align: center;
 }
